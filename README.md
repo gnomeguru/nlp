@@ -22,4 +22,4 @@ The following texts are useful. All of them can be read free online.
 -   Delip Rao and Brian McMahan.  [Natural Language Processing with PyTorch](http://library.stanford.edu/sfx?genre=book&atitle=&title=Natural%20language%20processing%20with%20PyTorch%20:%20build%20intelligent%20language%20applications%20using%20deep%20learning%20/&isbn=9781491978207&volume=&issue=&date=20190101&aulast=Rao,%20Delip,,%20author.&spage=&pages=&sid=EBSCO:VLeBooks:edsvle.AH35866319)  (requires Stanford login).
 - 
 ### Reference Course Online
-* [Chris Manning](https://nlp.stanford.edu/~manning/)'s Standford course on NLP and Deep Learning applied to NLP   :  [CS224n: Natural Language Processing with Deep Learning (http://web.stanford.edu/class/cs224n/))
+* [Chris Manning](https://nlp.stanford.edu/~manning/)'s Stanford course on NLP and Deep Learning applied to NLP   :  [CS224n: Natural Language Processing with Deep Learning (http://web.stanford.edu/class/cs224n/))
